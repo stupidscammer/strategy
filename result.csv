@@ -1,0 +1,13 @@
+strategy_id,start_date_time,end_date_time,start usdt,do nothing usdt,lower than buy times,strategy buy qty,strategy sell qty,min,max,average,buy,sell,average operations per day,average operations per week,last_buy_date,last_sell_date,last_op_rate,total earnings usdt
+"MIN-8-16-34-52-70-78-96-124-132-160-SL--0,006+0,005-0,0017-0,02",2019-07-18 3:00,2020-07-18 2:59,1000,-85.39402257573681,224,"min strategy 1 - 2945 times(36%)
+min strategy 2 - 2489 times(31%)
+min strategy 3 - 1271 times(16%)
+min strategy 4 - 821 times(10%)
+min strategy 5 - 210 times(3%)
+min strategy 6 - 173 times(2%)
+min strategy 7 - 159 times(2%)
+min strategy 8 - 24 times(0%)
+","SLM-3783times(47%)
+SLP-3696times(46%)
+SLF-613times(8%)
+",-2.7235678423628866,14.9455550138144,-0.033798990783994724,8092,8092,44.21857923497268,309.53005464480873,Thu Jul 16 2020 01:38:00 GMT-0700 (Pacific Daylight Time),Thu Jul 16 2020 01:38:00 GMT-0700 (Pacific Daylight Time),106.27,-900.139267004643

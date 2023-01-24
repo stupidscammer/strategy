@@ -1,0 +1,23 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "convert-array-to-csv": "^2.0.0",
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "mocha": "^10.2.0",
+    "node-binance-api": "^0.13.1",
+    "node-binance-api-testnet": "^0.12.5",
+    "node-fetch": "^3.3.0",
+    "require_once": "^0.4.6"
+  }
+}

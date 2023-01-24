@@ -1,0 +1,2 @@
+strategy_id,strategy_type_buy,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,strategy_type_sell,SL_minus,SL_plus,SL_zero,SL_floating,start_date_time,end_date_time
+"MIN-8-16-34-52-70-78-96-124-132-160-SL--0,006+0,005-0,0017-0,02",MIN,8,16,34,52,70,78,96,124,132,160,SL,"-0,60%","0,50%","0,0017",2%,2019-07-18 3:00,2020-07-18 2:59
